@@ -49,13 +49,6 @@
         "alt": "book",
         "type": "2",
         "url": "http://www.justlive.vip/library"
-      },
-      {
-        "id": "8",
-        "src": "images/frost.png",
-        "alt": "分布式调度",
-        "type": "2",
-        "url": "http://www.justlive.vip/center/"
       }
     ]
   }
